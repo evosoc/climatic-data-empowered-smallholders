@@ -1,0 +1,115 @@
+[
+  {
+    "id": "1",
+    "farmer": "Abanawe (Peru)",
+    "country": "Peru",
+    "age": "34",
+    "sex": "male",
+    "farmSize": "2",
+    "location": "-5.297000,-78.905994",
+    "address": "Chirinos San Ignacio, Cajamarca, 06841\nChirinos Perú",
+    "enterprises": [
+      "banana",
+      "dairy",
+      "coffee",
+      "tea",
+      "vegetable"
+    ],
+    "lat": "-5.297000",
+    "lng": "-78.905994"
+  },
+  {
+    "id": "2",
+    "farmer": "Jose (Peru)",
+    "country": "Peru",
+    "age": "31",
+    "sex": "male",
+    "farmSize": "1.5",
+    "location": "-5.221526,-78.991232",
+    "address": "San Ignacio, Cajamarca, 06845\nSan Ignacio Perú",
+    "enterprises": [
+      "bee",
+      "keeping",
+      "banana",
+      "dairy",
+      "vegetable"
+    ],
+    "lat": "-5.221526",
+    "lng": "-78.991232"
+  },
+  {
+    "id": "3",
+    "farmer": "Aden (Peru)",
+    "country": "Peru",
+    "age": "22",
+    "sex": "male",
+    "farmSize": "0.5",
+    "location": "-11.473371,-74.498625",
+    "address": "Pangoa Satipo, Junin, 12320\nPangoa Perú",
+    "enterprises": [
+      "banana",
+      "dairy",
+      "poultry",
+      "tea"
+    ],
+    "lat": "-11.473371",
+    "lng": "-74.498625"
+  },
+  {
+    "id": "4",
+    "farmer": "Akankwasa (Peru)",
+    "country": "Peru",
+    "age": "29",
+    "sex": "female",
+    "farmSize": "5",
+    "location": "-10.944013,-74.193366",
+    "address": "Atalaya, Ucayali, 25200\nAtalaya Perú",
+    "enterprises": [
+      "banana",
+      "kitchengarden",
+      "coffee",
+      "tea",
+      "vegetable"
+    ],
+    "lat": "-10.944013",
+    "lng": "-74.193366"
+  },
+  {
+    "id": "5",
+    "farmer": "Ankunda. (Peru)",
+    "country": "Peru",
+    "age": "31",
+    "sex": "female",
+    "farmSize": "10",
+    "location": "-5.317624,-78.523062",
+    "address": "Santa Rosa Jaén, Cajamarca, 06820\nSanta Rosa Perú",
+    "enterprises": [
+      "banana",
+      "dairy",
+      "poultry",
+      "coffee",
+      "tea",
+      "vegetable"
+    ],
+    "lat": "-5.317624",
+    "lng": "-78.523062"
+  },
+  {
+    "id": "6",
+    "farmer": "Awa (Peru)",
+    "country": "Peru",
+    "age": "53",
+    "sex": "female",
+    "farmSize": "6",
+    "location": "-13.302260,-73.544434",
+    "address": "Chungui La Mar, Ayacucho, 05270\nChungui Perú",
+    "enterprises": [
+      "banana",
+      "poultry",
+      "kitchen",
+      "garden"
+    ],
+    "lat": "-13.302260",
+    "lng": "-73.544434"
+  }
+]
