@@ -2,6 +2,12 @@
 This is a project for the IBM Call for Code. The objective of this demo is to show how timely weather data mixed with 
 community sourced advice can help the productivity of small holder farmers.  
 
+A link to the YouTube demo video is here:
+
+[![Call For Code](https://img.youtube.com/vi/nPHQ0w0T3tA/0.jpg)](https://www.youtube.com/watch?v=nPHQ0w0T3tA)
+
+
+
 WARNING:  
 This is not production code.  Do not use for production purposes without modification. This codebae does not represent how a
 production version would/should be developed and is used for example purposes. 
